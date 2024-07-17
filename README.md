@@ -9,7 +9,8 @@ npx create-react-app app_name
 
 ```
 
-#### Props
+#### Props (properties)
+
 
 #### State
 
